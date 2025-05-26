@@ -116,4 +116,9 @@ python main.py
 
 - Ragul S – [21UIT122]
 
-- Guide: Dr. Puspita Dash, Associate Professor, Sri Manakula Vinayagar Engineering College
+- Guide: Dr. Puspita Dash, Associate Professor, Sri Manakula Vinayagar Engineering College.
+
+## 📄 Publication
+
+This project is based on our published IEEE research paper:  
+🔗 [AI Enhanced Anomaly Detection of System Logs in Cyber Security](https://ieeexplore.ieee.org/document/10894286)
