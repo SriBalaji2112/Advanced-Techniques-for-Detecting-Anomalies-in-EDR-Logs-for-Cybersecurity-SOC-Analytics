@@ -1,0 +1,11 @@
+PyQt5
+Pandas
+networkx
+matplotlib
+msticpy
+plotly
+hashlib
+psutil
+plyer
+csv
+ctypes
