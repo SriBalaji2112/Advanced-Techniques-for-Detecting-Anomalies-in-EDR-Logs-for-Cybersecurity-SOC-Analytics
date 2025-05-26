@@ -1,13 +1,13 @@
+<p align="center">
 # ADVANCED TECHNIQUES FOR DETECTING ANOMALIES IN EDR LOGS FOR CYBERSECURITY
 
-<p align="center">
   <img src="images/logo.png" alt="Logo" />
-</p>
 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+</p>
 ---
 
 This project focuses on building an AI-driven anomaly detection framework that uses the Isolation Forest algorithm to identify suspicious events in unstructured system log data. It is designed to assist Security Operations Center (SOC) analysts by providing scalable, real-time detection, dynamic process tree visualization, and explainable AI insights, , and **manual pivoting support** for more efficient cybersecurity monitoring.
