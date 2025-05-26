@@ -1,6 +1,9 @@
 # ADVANCED TECHNIQUES FOR DETECTING ANOMALIES IN EDR LOGS FOR CYBERSECURITY
 
-![Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="Logo" />
+</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
